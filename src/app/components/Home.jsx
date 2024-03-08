@@ -2,7 +2,7 @@
 import React from 'react'
 import ImageSlider from './ImageSlider'
 import Accordian from './Accordian'
-import BoxSlider from './Boxslider'
+import Boxslider from './Boxslider'
 
 
 const Home = () => {
@@ -35,7 +35,7 @@ const Home = () => {
             </div>
         {/* three lorem card */}
 
-        <BoxSlider />
+        <Boxslider />
 
     <Accordian />
     </div>

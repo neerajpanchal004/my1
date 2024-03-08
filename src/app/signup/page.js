@@ -1,6 +1,6 @@
 // "use client"
 import React from 'react'
-import Signup from '../components/Signup'
+// import Signup from '../components/Signup'
 // import { useRouter } from 'next/navigation'
 
 const page = () => {
@@ -10,7 +10,7 @@ const page = () => {
   return (
     <>
     
-    <Signup/>
+    {/* <Signup/> */}
     </>
   )
 }
